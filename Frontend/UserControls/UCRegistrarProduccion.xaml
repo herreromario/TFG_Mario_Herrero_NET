@@ -1,0 +1,43 @@
+<UserControl x:Class="StockMeal.Frontend.UserControls.UCRegistrarProduccion"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             Loaded="UCRegistrarProduccion_Loaded"
+             mc:Ignorable="d"
+             d:DesignWidth="1560"
+             d:DesignHeight="912">
+    <Grid Margin="16">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="Registrar Producción" FontSize="36" FontWeight="Bold" Foreground="White" HorizontalAlignment="Center" Margin="0,20,0,20"/>
+        <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="0,0,0,10">
+            <DatePicker SelectedDate="{Binding fechaProduccion, UpdateSourceTrigger=PropertyChanged}" Width="180"/>
+        </StackPanel>
+        <StackPanel Grid.Row="2" Orientation="Horizontal" Margin="0,0,0,10">
+            <ComboBox Width="350" Margin="0,0,12,0" ItemsSource="{Binding listaPlatos}" DisplayMemberPath="Nombre" SelectedValuePath="IdProducto" SelectedValue="{Binding idProductoSeleccionado, UpdateSourceTrigger=PropertyChanged}"/>
+            <TextBox Width="120" Margin="0,0,12,0" Text="{Binding cantidadProducto, UpdateSourceTrigger=PropertyChanged}"/>
+            <Button Content="Añadir línea" Width="140" Click="btnAnadirLinea_Click"/>
+        </StackPanel>
+        <DataGrid Grid.Row="3" ItemsSource="{Binding lineasProduccion}" AutoGenerateColumns="False" CanUserAddRows="False" ColumnWidth="*">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="IdProducto" Binding="{Binding IdProducto}"/>
+                <DataGridTextColumn Header="Cantidad" Binding="{Binding Cantidad}"/>
+                <DataGridTextColumn Header="Fecha" Binding="{Binding Fecha, StringFormat=dd/MM/yyyy}"/>
+                <DataGridTemplateColumn Header="Acción">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Quitar" Click="btnQuitarLinea_Click"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Grid.Row="4" Content="Guardar producción" HorizontalAlignment="Right" Width="190" Height="42" Margin="0,10,0,0" Click="btnGuardar_Click"/>
+    </Grid>
+</UserControl>

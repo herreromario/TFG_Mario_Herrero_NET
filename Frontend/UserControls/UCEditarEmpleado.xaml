@@ -1,0 +1,24 @@
+<UserControl x:Class="StockMeal.Frontend.UserControls.UCEditarEmpleado"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             Loaded="LoadedHandler"
+             mc:Ignorable="d" d:DesignWidth="1560" d:DesignHeight="912">
+    <Grid VerticalAlignment="Center">
+        <StackPanel Width="520">
+            <TextBlock Text="Editar Empleado" FontSize="36" FontWeight="Bold" Foreground="White" HorizontalAlignment="Center" Margin="0,20,0,40"/>
+            <TextBox Margin="0,0,0,12" Text="{Binding empleado.Nombre, UpdateSourceTrigger=PropertyChanged}"/>
+            <TextBox Margin="0,0,0,12" Text="{Binding empleado.Apellido, UpdateSourceTrigger=PropertyChanged}"/>
+            <TextBox Margin="0,0,0,12" Text="{Binding empleado.Dni, UpdateSourceTrigger=PropertyChanged}"/>
+            <TextBox Margin="0,0,0,12" Text="{Binding empleado.Telefono, UpdateSourceTrigger=PropertyChanged}"/>
+            <TextBox Margin="0,0,0,12" Text="{Binding empleado.Usuario, UpdateSourceTrigger=PropertyChanged}"/>
+            <TextBox Margin="0,0,0,12" Text="{Binding empleado.Password, UpdateSourceTrigger=PropertyChanged}"/>
+            <ComboBox Margin="0,0,0,12" ItemsSource="{Binding listaRoles}" DisplayMemberPath="Nombre" SelectedValuePath="IdRol" SelectedValue="{Binding empleado.IdRol, UpdateSourceTrigger=PropertyChanged}"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Content="Actualizar" Width="180" Height="46" Margin="0,0,12,0" Click="Guardar_Click"/>
+                <Button Content="Cancelar" Width="180" Height="46" Click="Cancelar_Click"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</UserControl>

@@ -1,0 +1,25 @@
+<UserControl x:Class="StockMeal.Frontend.UserControls.UCAñadirEmpleado"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             Loaded="LoadedHandler"
+             mc:Ignorable="d" d:DesignWidth="1560" d:DesignHeight="912">
+    <Grid VerticalAlignment="Center">
+        <StackPanel Width="520">
+            <TextBlock Text="Añadir Empleado" FontSize="36" FontWeight="Bold" Foreground="White" HorizontalAlignment="Center" Margin="0,20,0,40"/>
+            <TextBox Margin="0,0,0,12" Width="{StaticResource DefaultFieldWidth}" FontSize="{StaticResource DefaultFieldFontSize}" Text="{Binding empleado.Nombre, UpdateSourceTrigger=PropertyChanged}" materialDesign:HintAssist.Hint="Nombre" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Foreground="White"/>
+            <TextBox Margin="0,0,0,12" Width="{StaticResource DefaultFieldWidth}" FontSize="{StaticResource DefaultFieldFontSize}" Text="{Binding empleado.Apellido, UpdateSourceTrigger=PropertyChanged}" materialDesign:HintAssist.Hint="Apellido" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Foreground="White"/>
+            <TextBox Margin="0,0,0,12" Width="{StaticResource DefaultFieldWidth}" FontSize="{StaticResource DefaultFieldFontSize}" Text="{Binding empleado.Dni, UpdateSourceTrigger=PropertyChanged}" materialDesign:HintAssist.Hint="DNI" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Foreground="White"/>
+            <TextBox Margin="0,0,0,12" Width="{StaticResource DefaultFieldWidth}" FontSize="{StaticResource DefaultFieldFontSize}" Text="{Binding empleado.Telefono, UpdateSourceTrigger=PropertyChanged}" materialDesign:HintAssist.Hint="Teléfono" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Foreground="White"/>
+            <TextBox Margin="0,0,0,12" Width="{StaticResource DefaultFieldWidth}" FontSize="{StaticResource DefaultFieldFontSize}" Text="{Binding empleado.Usuario, UpdateSourceTrigger=PropertyChanged}" materialDesign:HintAssist.Hint="Usuario" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Foreground="White"/>
+            <PasswordBox x:Name="PasswordBox" Margin="0,0,0,12" Width="{StaticResource DefaultFieldWidth}" FontSize="{StaticResource DefaultFieldFontSize}" materialDesign:HintAssist.Hint="Contraseña" Style="{StaticResource MaterialDesignFloatingHintPasswordBox}" Foreground="White"/>
+            <ComboBox Margin="0,0,0,12" Width="{StaticResource DefaultFieldWidth}" FontSize="{StaticResource DefaultFieldFontSize}" ItemsSource="{Binding listaRoles}" DisplayMemberPath="Nombre" SelectedValuePath="IdRol" SelectedValue="{Binding empleado.IdRol, UpdateSourceTrigger=PropertyChanged}" materialDesign:HintAssist.Hint="Rol" Style="{StaticResource MaterialDesignFloatingHintComboBox}" Foreground="White"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Content="Guardar" Width="180" Height="46" Margin="0,0,12,0" Click="Guardar_Click" Style="{StaticResource PrimaryButtonStyle}"/>
+                <Button Content="Cancelar" Width="180" Height="46" Click="Cancelar_Click" Style="{StaticResource PrimaryButtonStyle}"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</UserControl>

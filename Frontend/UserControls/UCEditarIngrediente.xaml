@@ -1,0 +1,28 @@
+<UserControl x:Class="StockMeal.Frontend.UserControls.UCEditarIngrediente"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             Loaded="UCEditarIngrediente_Loaded"
+             mc:Ignorable="d"
+             d:DesignWidth="1560"
+             d:DesignHeight="912">
+    <Grid VerticalAlignment="Center">
+        <Grid.ColumnDefinitions><ColumnDefinition Width="5*"/><ColumnDefinition Width="5*"/></Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/><RowDefinition Height="Auto"/><RowDefinition Height="Auto"/><RowDefinition Height="Auto"/><RowDefinition Height="Auto"/><RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.ColumnSpan="2" Text="Editar Ingrediente" FontSize="36" FontWeight="Bold" Foreground="White" HorizontalAlignment="Center" Margin="0,20,0,40"/>
+        <TextBox Grid.Row="1" Margin="0,0,50,20" FontSize="20" Width="300" HorizontalAlignment="Right" Text="{Binding ingrediente.Nombre, UpdateSourceTrigger=PropertyChanged}" materialDesign:HintAssist.Hint="Nombre"/>
+        <ComboBox Grid.Row="2" Margin="0,0,50,20" FontSize="20" Width="300" HorizontalAlignment="Right" ItemsSource="{Binding listaUnidades}" SelectedItem="{Binding ingrediente.Unidad, UpdateSourceTrigger=PropertyChanged}" materialDesign:HintAssist.Hint="Unidad"/>
+        <TextBox Grid.Row="3" Margin="0,0,50,20" FontSize="20" Width="300" HorizontalAlignment="Right" Text="{Binding ingrediente.StockDisponible, UpdateSourceTrigger=PropertyChanged}" materialDesign:HintAssist.Hint="Stock Disponible"/>
+        <TextBox Grid.Column="1" Grid.Row="1" Margin="50,0,0,20" FontSize="20" Width="300" HorizontalAlignment="Left" Text="{Binding ingrediente.Descripcion, UpdateSourceTrigger=PropertyChanged}" materialDesign:HintAssist.Hint="Descripción"/>
+        <TextBox Grid.Column="1" Grid.Row="2" Margin="50,0,0,20" FontSize="20" Width="300" HorizontalAlignment="Left" Text="{Binding ingrediente.Precio, UpdateSourceTrigger=PropertyChanged}" materialDesign:HintAssist.Hint="Precio"/>
+        <TextBox Grid.Column="1" Grid.Row="3" Margin="50,0,0,20" FontSize="20" Width="300" HorizontalAlignment="Left" Text="{Binding ingrediente.StockMinimo, UpdateSourceTrigger=PropertyChanged}" materialDesign:HintAssist.Hint="Stock Mínimo"/>
+
+        <Button Grid.Column="1" Grid.Row="5" Content="Actualizar" Width="220" Height="50" HorizontalAlignment="Left" Margin="50,20,0,0" Click="btnActualizar_Click" Style="{StaticResource PrimaryButtonStyle}"/>
+        <Button Grid.Row="5" Content="Cancelar" Width="220" Height="50" HorizontalAlignment="Right" Margin="0,20,50,0" Click="btnCancelar_Click" Style="{StaticResource PrimaryButtonStyle}"/>
+    </Grid>
+</UserControl>

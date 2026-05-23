@@ -1,0 +1,297 @@
+﻿<mah:MetroWindow 
+    x:Class="StockMeal.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+
+    xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls"
+    xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+
+    mc:Ignorable="d"
+
+    Title="Dashboard"
+    
+    d:DesignWidth="1920"
+    d:DesignHeight="1080"  
+    
+    WindowStyle="None"
+    WindowState="Maximized"
+    ResizeMode="NoResize">
+
+    <!-- FONDO GLOBAL -->
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0,0.5" EndPoint="1,0.5">
+                <GradientStop Color="#469B68" Offset="0"/>
+                <GradientStop Color="#E0B987" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <DockPanel Margin="20">
+
+            <!-- MENÚ LATERAL -->
+            <Border
+                DockPanel.Dock="Left"
+                Width="250"
+                Background="#AA1F1F1F"
+                CornerRadius="25"
+                Margin="0,0,20,0">
+
+                <Border.Effect>
+                    <DropShadowEffect
+                        BlurRadius="30"
+                        ShadowDepth="4"
+                        Opacity="0.4"/>
+                </Border.Effect>
+
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <StackPanel x:Name="Menu" Margin="15">
+
+                        <!-- DASHBOARD -->
+                        <Grid Margin="0,0,0,10">
+                            <materialDesign:PackIcon
+                                Kind="Menu"
+                                Width="20"
+                                Height="20"
+                                Margin="10,14"
+                                Foreground="#F0FFFFFF"/>
+
+                            <ListBoxItem
+                                x:Name="DashboardItem"
+                                Content="Dashboard"
+                                Padding="40 14"
+                                FontSize="15"
+                                Foreground="#F0FFFFFF"
+                                MouseDoubleClick="Dashboard_MouseDoubleClick"
+                                Style="{StaticResource MaterialDesignListBoxItem}" />
+                        </Grid>
+
+                        <!-- PRODUCCIÓN -->
+                        <Grid>
+                            <materialDesign:PackIcon
+                                Kind="SilverwareForkKnife"
+                                Width="16"
+                                Height="16"
+                                Margin="10,16"
+                                Foreground="#EFFFFFFF"/>
+
+                            <Expander
+                                x:Name="ExpanderProduccion"
+                                Width="210"
+                                HorizontalAlignment="Right"
+                                Style="{StaticResource MaterialDesignExpander}"
+                                Header="Producción"
+                                Background="{x:Null}"
+                                Foreground="#F0FFFFFF"
+                                Expanded="MenuExpander_Expanded">
+
+                                <ListView
+                                    Foreground="#F0FFFFFF"
+                                    Style="{StaticResource MaterialDesignListView}"
+                                    ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+                                    <ListViewItem Content="Platos" x:Name="Platos" MouseDoubleClick="Platos_MouseDoubleClick" Padding="20 6"/>
+                                    <ListViewItem Content="Gestión de recetas" Padding="20 6" x:Name="Recetas" MouseDoubleClick="Recetas_MouseDoubleClick"/>
+                                </ListView>
+                            </Expander>
+                        </Grid>
+
+                        <!-- STOCK -->
+                        <Grid>
+                            <materialDesign:PackIcon
+                                Kind="Database"
+                                Width="16"
+                                Height="16"
+                                Margin="10,16"
+                                Foreground="#EFFFFFFF"/>
+
+                            <Expander
+                                x:Name="ExpanderStock"
+                                Width="210"
+                                HorizontalAlignment="Right"
+                                Style="{StaticResource MaterialDesignExpander}"
+                                Header="Stock"
+                                Background="{x:Null}"
+                                Foreground="#F0FFFFFF"
+                                Expanded="MenuExpander_Expanded">
+
+                                <ListView
+                                    Foreground="#F0FFFFFF"
+                                    Style="{StaticResource MaterialDesignListView}">
+                                    <ListViewItem Content="Ingredientes" Padding="20 6" x:Name="Ingredientes" MouseDoubleClick="Ingredientes_MouseDoubleClick"/>
+                                    <ListViewItem Content="Ajustes de stock" Padding="20 6" x:Name="AjustesStock" MouseDoubleClick="AjustesStock_MouseDoubleClick"/>
+                                </ListView>
+                            </Expander>
+                        </Grid>
+
+                        <!-- COMPRAS -->
+                        <Grid>
+                            <materialDesign:PackIcon
+                                Kind="Cart"
+                                Width="16"
+                                Height="16"
+                                Margin="10,16"
+                                Foreground="#EFFFFFFF"/>
+
+                            <Expander
+                                x:Name="ExpanderCompras"
+                                Width="210"
+                                HorizontalAlignment="Right"
+                                Style="{StaticResource MaterialDesignExpander}"
+                                Header="Compras"
+                                Background="{x:Null}"
+                                Foreground="#F0FFFFFF"
+                                Expanded="MenuExpander_Expanded">
+
+                                <ListView
+                                    Foreground="#F0FFFFFF"
+                                    Style="{StaticResource MaterialDesignListView}">
+                                    <ListViewItem Content="Proveedores" Padding="20 6" x:Name="Proveedores" MouseDoubleClick="Proveedores_MouseDoubleClick"/>
+                                    <ListViewItem Content="Nueva compra" Padding="20 6" x:Name="NuevaCompra" MouseDoubleClick="NuevaCompra_MouseDoubleClick"/>
+                                    <ListViewItem Content="Historial de compras" Padding="20 6" x:Name="HistorialCompras" MouseDoubleClick="HistorialCompras_MouseDoubleClick"/>
+                                </ListView>
+                            </Expander>
+                        </Grid>
+
+                        <!-- VENTAS -->
+                        <Grid>
+                            <materialDesign:PackIcon
+                                Kind="Cash"
+                                Width="16"
+                                Height="16"
+                                Margin="10,16"
+                                Foreground="#EFFFFFFF"/>
+
+                            <Expander
+                                x:Name="ExpanderVentas"
+                                Width="210"
+                                HorizontalAlignment="Right"
+                                Style="{StaticResource MaterialDesignExpander}"
+                                Header="Ventas"
+                                Background="{x:Null}"
+                                Foreground="#F0FFFFFF"
+                                Expanded="MenuExpander_Expanded">
+
+                                <ListView
+                                    Foreground="#F0FFFFFF"
+                                    Style="{StaticResource MaterialDesignListView}">
+                                    <ListViewItem Content="Clientes" Padding="20 6" x:Name="Clientes" MouseDoubleClick="Clientes_MouseDoubleClick"/>
+                                    <ListViewItem Content="Facturas" Padding="20 6" x:Name="Facturas" MouseDoubleClick="Facturas_MouseDoubleClick"/>
+                                    <ListViewItem Content="Historial de ventas" Padding="20 6" x:Name="HistorialVentas" MouseDoubleClick="HistorialVentas_MouseDoubleClick"/>
+                                </ListView>
+                            </Expander>
+                        </Grid>
+
+                        <!-- CAJA -->
+                        <Grid>
+                            <materialDesign:PackIcon
+                                Kind="Safe"
+                                Width="16"
+                                Height="16"
+                                Margin="10,16"
+                                Foreground="#EFFFFFFF"/>
+
+                            <Expander
+                                x:Name="ExpanderCaja"
+                                Width="210"
+                                HorizontalAlignment="Right"
+                                Style="{StaticResource MaterialDesignExpander}"
+                                Header="Caja"
+                                Background="{x:Null}"
+                                Foreground="#F0FFFFFF"
+                                Expanded="MenuExpander_Expanded">
+
+                                <ListView
+                                    Foreground="#F0FFFFFF"
+                                    Style="{StaticResource MaterialDesignListView}"
+                                    ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+                                    <ListViewItem Content="Movimientos" Padding="20 6" x:Name="MovimientosCaja" MouseDoubleClick="MovimientosCaja_MouseDoubleClick"/>
+                                    <ListViewItem Content="Cierres de caja" Padding="20 6" x:Name="CierresCaja" MouseDoubleClick="CierresCaja_MouseDoubleClick"/>
+                                </ListView>
+                            </Expander>
+                        </Grid>
+
+                        <!-- ADMINISTRACIÓN -->
+                        <Grid>
+                            <materialDesign:PackIcon
+                                Kind="AccountGroup"
+                                Width="16"
+                                Height="16"
+                                Margin="10,16"
+                                Foreground="#EFFFFFFF"/>
+
+                            <Expander
+                                x:Name="ExpanderAdministracion"
+                                Width="210"
+                                HorizontalAlignment="Right"
+                                Style="{StaticResource MaterialDesignExpander}"
+                                Header="Administración"
+                                Background="{x:Null}"
+                                Foreground="#F0FFFFFF"
+                                Expanded="MenuExpander_Expanded">
+
+                                <ListView
+                                    Foreground="#F0FFFFFF"
+                                    Style="{StaticResource MaterialDesignListView}"
+                                    ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+                                    <ListViewItem Content="Empleados" Padding="20 6" x:Name="Empleados" MouseDoubleClick="Empleados_MouseDoubleClick"/>
+                                    <ListViewItem Content="Roles" Padding="20 6" x:Name="Roles" MouseDoubleClick="Roles_MouseDoubleClick"/>
+                                    <ListViewItem Content="Permisos" Padding="20 6" x:Name="Permisos" MouseDoubleClick="Permisos_MouseDoubleClick"/>
+                                </ListView>
+                            </Expander>
+                        </Grid>
+
+                        <!-- AJUSTES -->
+                        <Grid>
+                            <materialDesign:PackIcon
+                                Kind="Cog"
+                                Width="16"
+                                Height="16"
+                                Margin="10,16"
+                                Foreground="#EFFFFFFF"/>
+
+                            <Expander
+                                x:Name="ExpanderAjustes"
+                                Width="210"
+                                HorizontalAlignment="Right"
+                                Style="{StaticResource MaterialDesignExpander}"
+                                Header="Ajustes"
+                                Background="{x:Null}"
+                                Foreground="#F0FFFFFF"
+                                Expanded="MenuExpander_Expanded">
+
+                                <ListView
+                                    Foreground="#F0FFFFFF"
+                                    Style="{StaticResource MaterialDesignListView}"
+                                    ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+                                    <ListViewItem Content="Mi cuenta" Padding="20 6" x:Name="MiCuenta" MouseDoubleClick="MiCuenta_MouseDoubleClick"/>
+                                </ListView>
+                            </Expander>
+                        </Grid>
+                        
+                    </StackPanel>
+                </ScrollViewer>
+            </Border>
+
+            <!-- CONTENIDO PRINCIPAL -->
+            <Border
+                x:Name="MainContent"
+                Background="#40FFFFFF"
+                CornerRadius="25"
+                Padding="25">
+
+                <Border.Effect>
+                    <DropShadowEffect
+                        BlurRadius="35"
+                        ShadowDepth="5"
+                        Opacity="0.35"/>
+                </Border.Effect>
+
+                <!-- VISTAS / USERCONTROLS -->
+                <ContentControl x:Name="MainContentHost"/>
+
+            </Border>
+
+        </DockPanel>
+    </Grid>
+</mah:MetroWindow>

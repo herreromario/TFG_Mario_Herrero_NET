@@ -1,0 +1,22 @@
+<UserControl x:Class="StockMeal.Frontend.UserControls.UCPlanificacionProduccion"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d"
+             d:DesignWidth="1560"
+             d:DesignHeight="912">
+    <Grid Margin="20">
+        <StackPanel>
+            <TextBlock Text="Planificación de Producción" FontSize="36" FontWeight="Bold" Foreground="White" Margin="0,20,0,24"/>
+            <Border Background="#22FFFFFF" CornerRadius="10" Padding="16">
+                <StackPanel>
+                    <TextBlock Foreground="White" FontSize="16" TextWrapping="Wrap"
+                               Text="Esta sección queda reservada para la planificación administrativa desde escritorio (programación por fecha, previsión de demanda, lotes y validaciones avanzadas)."/>
+                    <TextBlock Foreground="White" FontSize="15" Margin="0,12,0,0" TextWrapping="Wrap"
+                               Text="El registro operativo diario y la consulta rápida de producción se mantienen en la app móvil para evitar solapamientos."/>
+                </StackPanel>
+            </Border>
+        </StackPanel>
+    </Grid>
+</UserControl>

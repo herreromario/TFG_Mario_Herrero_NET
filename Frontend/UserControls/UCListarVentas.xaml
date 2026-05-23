@@ -1,0 +1,35 @@
+<UserControl x:Class="StockMeal.Frontend.UserControls.UCListarVentas"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             Loaded="UCListarVentas_Loaded"
+             mc:Ignorable="d"
+             d:DesignWidth="1560"
+             d:DesignHeight="912">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="Historial de Ventas" FontSize="36" FontWeight="Bold" Foreground="White" HorizontalAlignment="Center" Margin="0,20,0,20"/>
+        <DataGrid Grid.Row="1" ItemsSource="{Binding listaVentas}" AutoGenerateColumns="False" CanUserAddRows="False" ColumnWidth="*">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding IdTransaccion}"/>
+                <DataGridTextColumn Header="Cliente" Binding="{Binding IdClienteNavigation.Nombre}"/>
+                <DataGridTextColumn Header="Empleado" Binding="{Binding IdEmpleadoNavigation.Nombre}"/>
+                <DataGridTextColumn Header="Fecha" Binding="{Binding Fecha}"/>
+                <DataGridTextColumn Header="Tipo" Binding="{Binding TipoTransaccion}"/>
+                <DataGridTextColumn Header="Estado" Binding="{Binding Estado}"/>
+                <DataGridTextColumn Header="Importe total" Binding="{Binding ImporteTotal}"/>
+                <DataGridTemplateColumn Header="Detalle">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Ver detalle" Click="btnVerDetalle_Click"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</UserControl>

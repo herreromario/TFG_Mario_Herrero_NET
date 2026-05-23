@@ -1,0 +1,25 @@
+<UserControl x:Class="StockMeal.Frontend.UserControls.UCListarCierresCaja"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             Loaded="UCListarCierresCaja_Loaded"
+             mc:Ignorable="d"
+             d:DesignWidth="1560"
+             d:DesignHeight="912">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="Cierres de Caja" FontSize="36" FontWeight="Bold" Foreground="White" HorizontalAlignment="Center" Margin="0,20,0,20"/>
+        <DataGrid Grid.Row="1" ItemsSource="{Binding listaCierres}" AutoGenerateColumns="False" CanUserAddRows="False" ColumnWidth="*">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Fecha" Binding="{Binding Fecha}"/>
+                <DataGridTextColumn Header="Total ingresos" Binding="{Binding TotalIngresos}"/>
+                <DataGridTextColumn Header="Total gastos" Binding="{Binding TotalGastos}"/>
+                <DataGridTextColumn Header="Saldo final" Binding="{Binding SaldoFinal}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</UserControl>

@@ -1,0 +1,889 @@
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\StockMeal.exe
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\StockMeal.deps.json
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\StockMeal.runtimeconfig.json
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\StockMeal.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\StockMeal.pdb
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\Castle.Core.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\ControlzEx.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\MahApps.Metro.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\MaterialDesignThemes.MahApps.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\NLog.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\de\MahApps.Metro.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\alway\source\repos\StockMeal\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\alway\source\repos\StockMeal\obj\Debug\net8.0-windows\StockMeal.csproj.AssemblyReference.cache
+C:\Users\alway\source\repos\StockMeal\obj\Debug\net8.0-windows\Frontend\Dialogos\Login.baml
+C:\Users\alway\source\repos\StockMeal\obj\Debug\net8.0-windows\App.baml
+C:\Users\alway\source\repos\StockMeal\obj\Debug\net8.0-windows\Frontend\Dialogos\Login.g.cs
+C:\Users\alway\source\repos\StockMeal\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\alway\source\repos\StockMeal\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\alway\source\repos\StockMeal\obj\Debug\net8.0-windows\StockMeal_Content.g.cs
+C:\Users\alway\source\repos\StockMeal\obj\Debug\net8.0-windows\StockMeal_MarkupCompile.cache
+C:\Users\alway\source\repos\StockMeal\obj\Debug\net8.0-windows\StockMeal_MarkupCompile.lref
+C:\Users\alway\source\repos\StockMeal\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\alway\source\repos\StockMeal\obj\Debug\net8.0-windows\StockMeal.g.resources
+C:\Users\alway\source\repos\StockMeal\obj\Debug\net8.0-windows\StockMeal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alway\source\repos\StockMeal\obj\Debug\net8.0-windows\StockMeal.AssemblyInfoInputs.cache
+C:\Users\alway\source\repos\StockMeal\obj\Debug\net8.0-windows\StockMeal.AssemblyInfo.cs
+C:\Users\alway\source\repos\StockMeal\obj\Debug\net8.0-windows\StockMeal.csproj.CoreCompileInputs.cache
+C:\Users\alway\source\repos\StockMeal\obj\Debug\net8.0-windows\StockMeal.sourcelink.json
+C:\Users\alway\source\repos\StockMeal\obj\Debug\net8.0-windows\StockMeal.csproj.Up2Date
+C:\Users\alway\source\repos\StockMeal\obj\Debug\net8.0-windows\StockMeal.dll
+C:\Users\alway\source\repos\StockMeal\obj\Debug\net8.0-windows\refint\StockMeal.dll
+C:\Users\alway\source\repos\StockMeal\obj\Debug\net8.0-windows\StockMeal.pdb
+C:\Users\alway\source\repos\StockMeal\obj\Debug\net8.0-windows\StockMeal.genruntimeconfig.cache
+C:\Users\alway\source\repos\StockMeal\obj\Debug\net8.0-windows\ref\StockMeal.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\StockMeal.exe
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\StockMeal.deps.json
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\StockMeal.runtimeconfig.json
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\StockMeal.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\StockMeal.pdb
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\Castle.Core.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\ControlzEx.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\MahApps.Metro.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\MaterialDesignThemes.MahApps.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\NLog.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\de\MahApps.Metro.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.csproj.AssemblyReference.cache
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\Dialogos\Login.baml
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\obj\Debug\net8.0-windows\App.baml
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\Dialogos\Login.g.cs
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal_Content.g.cs
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal_MarkupCompile.cache
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal_MarkupCompile.lref
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.g.resources
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.AssemblyInfoInputs.cache
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.AssemblyInfo.cs
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.csproj.CoreCompileInputs.cache
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.sourcelink.json
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.csproj.Up2Date
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\obj\Debug\net8.0-windows\refint\StockMeal.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.pdb
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.genruntimeconfig.cache
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\obj\Debug\net8.0-windows\ref\StockMeal.dll
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\Dialogos\AñadirProducto.g.cs
+C:\Users\windows10\source\repos\herreromario\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\Dialogos\AñadirProducto.baml
+C:\Users\alway\source\repos\StockMeal\obj\Debug\net8.0-windows\Frontend\Dialogos\AñadirProducto.g.cs
+C:\Users\alway\source\repos\StockMeal\obj\Debug\net8.0-windows\Frontend\Dialogos\AñadirProducto.baml
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\StockMeal.exe
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\StockMeal.deps.json
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\StockMeal.runtimeconfig.json
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\StockMeal.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\StockMeal.pdb
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Castle.Core.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\ControlzEx.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\MahApps.Metro.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\MaterialDesignThemes.MahApps.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\NLog.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\de\MahApps.Metro.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.csproj.AssemblyReference.cache
+C:\Users\windows10\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\Dialogos\Login.baml
+C:\Users\windows10\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\App.baml
+C:\Users\windows10\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\Dialogos\Login.g.cs
+C:\Users\windows10\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\windows10\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\windows10\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal_Content.g.cs
+C:\Users\windows10\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal_MarkupCompile.cache
+C:\Users\windows10\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal_MarkupCompile.lref
+C:\Users\windows10\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\windows10\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.g.resources
+C:\Users\windows10\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows10\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.AssemblyInfoInputs.cache
+C:\Users\windows10\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.AssemblyInfo.cs
+C:\Users\windows10\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.csproj.CoreCompileInputs.cache
+C:\Users\windows10\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.sourcelink.json
+C:\Users\windows10\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.csproj.Up2Date
+C:\Users\windows10\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\refint\StockMeal.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.pdb
+C:\Users\windows10\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.genruntimeconfig.cache
+C:\Users\windows10\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\ref\StockMeal.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\StockMeal.exe
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\StockMeal.deps.json
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\StockMeal.runtimeconfig.json
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\StockMeal.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\StockMeal.pdb
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\Castle.Core.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\ControlzEx.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\Humanizer.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\MahApps.Metro.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\MaterialDesignThemes.MahApps.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\MySql.EntityFrameworkCore.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\NLog.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\de\MahApps.Metro.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.csproj.AssemblyReference.cache
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\Dialogos\Login.baml
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\obj\Debug\net8.0-windows\App.baml
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\Dialogos\Login.g.cs
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\obj\Debug\net8.0-windows\App.g.cs
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal_Content.g.cs
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal_MarkupCompile.cache
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal_MarkupCompile.lref
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.g.resources
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.AssemblyInfoInputs.cache
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.AssemblyInfo.cs
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.csproj.CoreCompileInputs.cache
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.sourcelink.json
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.csproj.Up2Date
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\obj\Debug\net8.0-windows\refint\StockMeal.dll
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.pdb
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.genruntimeconfig.cache
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\obj\Debug\net8.0-windows\ref\StockMeal.dll
+C:\Users\windows10\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCAñadirPlato.g.cs
+C:\Users\windows10\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCAñadirPlato.baml
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCAñadirPlato.g.cs
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCAñadirPlato.baml
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCListarPlatos.g.cs
+D:\Proyectos\Visual Studio (WPF)\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCListarPlatos.baml
+C:\Users\windows10\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCListarPlatos.g.cs
+C:\Users\windows10\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCListarPlatos.baml
+C:\Users\windows10\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCListarIngredientes.g.cs
+C:\Users\windows10\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCListarIngredientes.baml
+C:\Users\windows10\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCAñadirIngrediente.g.cs
+C:\Users\windows10\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCAñadirIngrediente.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\StockMeal.deps.json
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\StockMeal.runtimeconfig.json
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\StockMeal.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\StockMeal.pdb
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Castle.Core.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\ControlzEx.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\MahApps.Metro.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\MaterialDesignThemes.MahApps.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\NLog.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\de\MahApps.Metro.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.csproj.AssemblyReference.cache
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\Dialogos\Login.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\App.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\Dialogos\Login.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCAñadirIngrediente.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCAñadirPlato.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCListarIngredientes.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCListarPlatos.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal_Content.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal_MarkupCompile.cache
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal_MarkupCompile.lref
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCAñadirIngrediente.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCAñadirPlato.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCListarIngredientes.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCListarPlatos.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.g.resources
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.AssemblyInfoInputs.cache
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.AssemblyInfo.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.csproj.CoreCompileInputs.cache
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.sourcelink.json
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.csproj.Up2Date
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\refint\StockMeal.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.pdb
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\StockMeal.genruntimeconfig.cache
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\ref\StockMeal.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCAñadirCliente.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCAñadirCompra.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCAñadirProveedor.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCListarClientes.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCListarCompras.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCListarFacturas.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCListarProveedores.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCListarVentas.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCAñadirCliente.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCAñadirCompra.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCAñadirProveedor.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCListarClientes.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCListarCompras.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCListarFacturas.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCListarProveedores.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCListarVentas.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\bin\Debug\net8.0-windows\StockMeal.exe
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCListarCierresCaja.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCListarEmpleados.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCListarMovimientosCaja.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCListarPermisos.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCListarRoles.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCListarCierresCaja.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCListarEmpleados.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCListarMovimientosCaja.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCListarPermisos.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCListarRoles.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\StockMeal.deps.json
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\StockMeal.runtimeconfig.json
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\StockMeal.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\StockMeal.pdb
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\BouncyCastle.Cryptography.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\Castle.Core.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\ControlzEx.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\Google.Protobuf.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\Humanizer.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\K4os.Compression.LZ4.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\K4os.Hash.xxHash.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\MahApps.Metro.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\MaterialDesignColors.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\MaterialDesignThemes.Wpf.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\MaterialDesignThemes.MahApps.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\Microsoft.CodeAnalysis.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\Microsoft.Extensions.Configuration.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\Microsoft.Extensions.Logging.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\Microsoft.Extensions.Options.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\Microsoft.Extensions.Primitives.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\Microsoft.Xaml.Behaviors.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\Mono.TextTemplating.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\MySql.Data.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\MySql.EntityFrameworkCore.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\NLog.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\System.Composition.AttributedModel.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\System.Composition.Convention.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\System.Composition.Hosting.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\System.Composition.Runtime.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\System.Composition.TypedParts.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\System.IO.Pipelines.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\System.Text.Encodings.Web.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\System.Text.Json.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\ZstdSharp.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\de\MahApps.Metro.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\runtimes\win-x64\native\comerr64.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\build_tmp\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCDetalleCompra.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCDetalleVenta.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCDetalleCompra.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCDetalleVenta.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCHistorialProduccion.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCRecetas.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCRegistrarProduccion.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCHistorialProduccion.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCRecetas.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCRegistrarProduccion.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCPlanificacionProduccion.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCPlanificacionProduccion.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCAgregarReceta.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCListarRecetas.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCAgregarReceta.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCListarRecetas.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCDashboard.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCDashboard.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\Dialogos\EditarClienteWindow.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\Dialogos\EditarProductoWindow.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\Dialogos\EditarProveedorWindow.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\Dialogos\EditarClienteWindow.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\Dialogos\EditarProductoWindow.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\Dialogos\EditarProveedorWindow.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCEditarCliente.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCEditarIngrediente.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCEditarPlato.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCEditarProveedor.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCEditarCliente.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCEditarIngrediente.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCEditarPlato.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCEditarProveedor.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCAjustesStock.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCAjustesStock.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\Dialogos\MensajeApp.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCAñadirEmpleado.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCAñadirPermiso.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCAñadirRol.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCEditarEmpleado.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCEditarPermiso.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCEditarRol.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCPerfilUsuario.baml
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\Dialogos\MensajeApp.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCAñadirEmpleado.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCAñadirPermiso.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCAñadirRol.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCEditarEmpleado.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCEditarPermiso.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCEditarRol.g.cs
+C:\Users\Mario\source\repos\StockMeal-WPF\obj\Debug\net8.0-windows\Frontend\UserControls\UCPerfilUsuario.g.cs

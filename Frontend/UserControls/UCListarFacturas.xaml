@@ -1,0 +1,26 @@
+<UserControl x:Class="StockMeal.Frontend.UserControls.UCListarFacturas"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             Loaded="UCListarFacturas_Loaded"
+             mc:Ignorable="d"
+             d:DesignWidth="1560"
+             d:DesignHeight="912">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="Facturas" FontSize="36" FontWeight="Bold" Foreground="White" HorizontalAlignment="Center" Margin="0,20,0,20"/>
+        <DataGrid Grid.Row="1" ItemsSource="{Binding listaFacturas}" AutoGenerateColumns="False" CanUserAddRows="False" ColumnWidth="*">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Número" Binding="{Binding NumeroFactura}"/>
+                <DataGridTextColumn Header="Fecha" Binding="{Binding Fecha}"/>
+                <DataGridTextColumn Header="Base imponible" Binding="{Binding BaseImponible}"/>
+                <DataGridTextColumn Header="IVA %" Binding="{Binding IvaPorcentaje}"/>
+                <DataGridTextColumn Header="Total IVA" Binding="{Binding TotalConIva}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</UserControl>

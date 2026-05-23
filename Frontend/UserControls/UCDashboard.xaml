@@ -1,0 +1,128 @@
+<UserControl x:Class="StockMeal.Frontend.UserControls.UCDashboard"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             Loaded="UCDashboard_Loaded"
+             mc:Ignorable="d"
+             d:DesignWidth="1560"
+             d:DesignHeight="912">
+    <Grid Margin="8">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Dashboard"
+                   FontSize="36"
+                   FontWeight="Bold"
+                   Foreground="White"
+                   Margin="0,8,0,20"/>
+
+        <UniformGrid Grid.Row="1" Columns="3" Margin="0,0,0,18">
+            <Border Margin="0,0,10,0" Padding="16" CornerRadius="14" Background="#6A1D7A4A">
+                <StackPanel>
+                    <TextBlock Text="Ingredientes en alerta" Foreground="#F0FFFFFF" FontSize="14"/>
+                    <TextBlock Text="{Binding IngredientesStockBajo}" Foreground="White" FontSize="34" FontWeight="Bold"/>
+                    <TextBlock Text="Stock actual &lt;= stock minimo" Foreground="#DDF1F1F1" FontSize="12"/>
+                </StackPanel>
+            </Border>
+
+            <Border Margin="5,0,5,0" Padding="16" CornerRadius="14" Background="#6A8B5E2A">
+                <StackPanel>
+                    <TextBlock Text="Ventas de hoy" Foreground="#F0FFFFFF" FontSize="14"/>
+                    <TextBlock Text="{Binding VentasHoy, StringFormat={}{0:F2} €}" Foreground="White" FontSize="34" FontWeight="Bold"/>
+                    <TextBlock Text="Solo transacciones tipo venta" Foreground="#DDF1F1F1" FontSize="12"/>
+                </StackPanel>
+            </Border>
+
+            <Border Margin="10,0,0,0" Padding="16" CornerRadius="14" Background="#6A1E4F7A">
+                <StackPanel>
+                    <TextBlock Text="Saldo de caja hoy" Foreground="#F0FFFFFF" FontSize="14"/>
+                    <TextBlock Text="{Binding SaldoCajaHoy, StringFormat={}{0:F2} €}" Foreground="White" FontSize="34" FontWeight="Bold"/>
+                    <TextBlock Text="Ingresos - gastos del día" Foreground="#DDF1F1F1" FontSize="12"/>
+                </StackPanel>
+            </Border>
+        </UniformGrid>
+
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="3*"/>
+            </Grid.ColumnDefinitions>
+
+            <Border Grid.Column="0" Margin="0,0,10,0" Padding="14" CornerRadius="14" Background="#4FFFFFFF">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <TextBlock Text="Resumen rápido" FontSize="20" FontWeight="SemiBold" Foreground="White"/>
+                    <UniformGrid Grid.Row="1" Columns="2" Margin="0,12,0,12">
+                        <Border Margin="0,0,8,8" Padding="10" CornerRadius="10" Background="#55243138">
+                            <StackPanel>
+                                <TextBlock Text="Platos" Foreground="#E8FFFFFF" FontSize="12"/>
+                                <TextBlock Text="{Binding TotalPlatos}" Foreground="White" FontSize="24" FontWeight="Bold"/>
+                            </StackPanel>
+                        </Border>
+                        <Border Margin="0,0,0,8" Padding="10" CornerRadius="10" Background="#55382B20">
+                            <StackPanel>
+                                <TextBlock Text="Ingredientes" Foreground="#E8FFFFFF" FontSize="12"/>
+                                <TextBlock Text="{Binding TotalIngredientes}" Foreground="White" FontSize="24" FontWeight="Bold"/>
+                            </StackPanel>
+                        </Border>
+                        <Border Margin="0,0,8,0" Padding="10" CornerRadius="10" Background="#55293F2C">
+                            <StackPanel>
+                                <TextBlock Text="Compras hoy" Foreground="#E8FFFFFF" FontSize="12"/>
+                                <TextBlock Text="{Binding ComprasHoy, StringFormat={}{0:F2} €}" Foreground="White" FontSize="20" FontWeight="Bold"/>
+                            </StackPanel>
+                        </Border>
+                        <Border Margin="0,0,0,0" Padding="10" CornerRadius="10" Background="#55233A4D">
+                            <StackPanel>
+                                <TextBlock Text="Ventas hoy" Foreground="#E8FFFFFF" FontSize="12"/>
+                                <TextBlock Text="{Binding VentasHoy, StringFormat={}{0:F2} €}" Foreground="White" FontSize="20" FontWeight="Bold"/>
+                            </StackPanel>
+                        </Border>
+                    </UniformGrid>
+
+                    <DataGrid Grid.Row="2"
+                              ItemsSource="{Binding StockBajoItems}"
+                              AutoGenerateColumns="False"
+                              CanUserAddRows="False"
+                              ColumnWidth="*">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Ingrediente" Binding="{Binding Nombre}"/>
+                            <DataGridTextColumn Header="Stock disp." Binding="{Binding StockDisponible}"/>
+                            <DataGridTextColumn Header="Stock mín." Binding="{Binding StockMinimo}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </Border>
+
+            <Border Grid.Column="1" Margin="10,0,0,0" Padding="14" CornerRadius="14" Background="#4FFFFFFF">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <TextBlock Text="Últimos movimientos de caja" FontSize="20" FontWeight="SemiBold" Foreground="White"/>
+                    <DataGrid Grid.Row="1"
+                              Margin="0,12,0,0"
+                              ItemsSource="{Binding UltimosMovimientos}"
+                              AutoGenerateColumns="False"
+                              CanUserAddRows="False"
+                              ColumnWidth="*">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Fecha" Binding="{Binding Fecha, StringFormat={}{0:dd/MM/yyyy HH:mm}}"/>
+                            <DataGridTextColumn Header="Tipo" Binding="{Binding Tipo}"/>
+                            <DataGridTextColumn Header="Importe" Binding="{Binding Importe, StringFormat={}{0:F2} €}"/>
+                            <DataGridTextColumn Header="Descripción" Binding="{Binding Descripcion}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </Border>
+        </Grid>
+    </Grid>
+</UserControl>

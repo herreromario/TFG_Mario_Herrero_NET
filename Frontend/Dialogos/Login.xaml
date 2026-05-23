@@ -1,0 +1,101 @@
+﻿<Window x:Class="StockMeal.Frontend.Dialogos.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        ResizeMode="NoResize"
+        Title="Login"
+        Height="500"
+        Width="850"
+        Background="Transparent">
+
+    <Grid>
+        <Grid Height="450" Width="800">
+            
+            <!-- Fondo degradado -->
+            <Grid.Background>
+                <LinearGradientBrush StartPoint="0,0.5" EndPoint="1,0.5">
+                    <GradientStop Color="#469B68" Offset="0.0"/>
+                    <GradientStop Color="#E0B987" Offset="1.0"/>
+                </LinearGradientBrush>
+            </Grid.Background>
+
+            <Image 
+                Source="/Frontend/Assets/logo_stockmeal.png" 
+                Height="100"
+                VerticalAlignment="Top"
+                Margin="0,-20,0,0"
+                Panel.ZIndex="10"/>
+            
+            <!-- Tarjeta central -->
+        <Border Width="380" Height="420"
+                Background="#40FFFFFF"
+                CornerRadius="25"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="35"
+                                  ShadowDepth="5"
+                                  Opacity="0.4" />
+            </Border.Effect>
+
+            <Grid Margin="40">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="40"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="40"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <!-- Título -->
+                <TextBlock Grid.Row="0"
+                           Text="StockMeal"
+                           FontSize="32"
+                           FontWeight="Bold"
+                           Foreground="White"
+                           HorizontalAlignment="Center"
+                           Margin="0,35,0,20"/>
+
+                <!-- Usuario -->
+                <TextBox x:Name="txtUsuario"
+                         Grid.Row="2"
+                         Width="260"
+                         Margin="0,0,0,20"
+                         materialDesign:HintAssist.Hint="Usuario"
+                         Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                         Foreground="White"/>
+
+                <!-- Contraseña -->
+                <PasswordBox x:Name="txtPassword"
+                             Grid.Row="3"
+                             Width="260"
+                             Margin="0,0,0,20"
+                             materialDesign:HintAssist.Hint="Contraseña"
+                             Style="{StaticResource MaterialDesignFloatingHintPasswordBox}"
+                             Foreground="White"/>
+
+                <!-- Botón Entrar -->
+                <Button x:Name="btn_Entrar"
+                        Click="btn_Entrar_Click"
+                        Grid.Row="5"
+                        Content="Entrar"
+                        Width="180"
+                        Height="45"
+                        HorizontalAlignment="Center"
+                        Style="{StaticResource PrimaryButtonStyle}"
+                        Background="{DynamicResource PrimaryHueMidBrush}"
+                        Foreground="White"
+                        FontSize="16"/>
+            </Grid>
+        </Border>
+        </Grid>
+    </Grid>
+</Window>

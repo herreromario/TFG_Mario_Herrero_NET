@@ -1,0 +1,42 @@
+<UserControl x:Class="StockMeal.Frontend.UserControls.UCRecetas"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             Loaded="UCRecetas_Loaded"
+             mc:Ignorable="d"
+             d:DesignWidth="1560"
+             d:DesignHeight="912">
+    <Grid Margin="16">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="Recetas" FontSize="36" FontWeight="Bold" Foreground="White" HorizontalAlignment="Center" Margin="0,20,0,20"/>
+        <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="0,0,0,10">
+            <ComboBox Width="280" Margin="0,0,12,0" ItemsSource="{Binding listaPlatos}" DisplayMemberPath="Nombre" SelectedValuePath="IdProducto" SelectedValue="{Binding idPlatoSeleccionado, UpdateSourceTrigger=PropertyChanged}"/>
+            <ComboBox Width="280" Margin="0,0,12,0" ItemsSource="{Binding listaIngredientes}" DisplayMemberPath="Nombre" SelectedValuePath="IdProducto" SelectedValue="{Binding idIngredienteSeleccionado, UpdateSourceTrigger=PropertyChanged}"/>
+            <TextBox Width="100" Margin="0,0,12,0" Text="{Binding cantidadIngrediente, UpdateSourceTrigger=PropertyChanged}"/>
+            <Button Content="Añadir línea" Width="120" Click="btnAnadirLinea_Click"/>
+            <Button Content="Guardar receta" Width="120" Margin="10,0,0,0" Click="btnGuardarReceta_Click"/>
+        </StackPanel>
+
+        <DataGrid Grid.Row="2" ItemsSource="{Binding nuevasLineas}" AutoGenerateColumns="False" CanUserAddRows="False" ColumnWidth="*">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Plato" Binding="{Binding IdProducto}"/>
+                <DataGridTextColumn Header="Ingrediente" Binding="{Binding IdIngrediente}"/>
+                <DataGridTextColumn Header="Cantidad" Binding="{Binding Cantidad}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <DataGrid Grid.Row="3" ItemsSource="{Binding listaRecetas}" AutoGenerateColumns="False" CanUserAddRows="False" ColumnWidth="*">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Plato" Binding="{Binding IdProductoNavigation.Nombre}"/>
+                <DataGridTextColumn Header="Ingrediente" Binding="{Binding IdIngredienteNavigation.Nombre}"/>
+                <DataGridTextColumn Header="Cantidad" Binding="{Binding Cantidad}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</UserControl>

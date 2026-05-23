@@ -1,0 +1,14 @@
+<UserControl x:Class="StockMeal.Frontend.UserControls.UCAñadirRol"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d" d:DesignWidth="1560" d:DesignHeight="912">
+    <Grid VerticalAlignment="Center"><StackPanel Width="520">
+        <TextBlock Text="Añadir Rol" FontSize="36" FontWeight="Bold" Foreground="White" HorizontalAlignment="Center" Margin="0,20,0,40"/>
+        <TextBox Margin="0,0,0,12" Width="{StaticResource DefaultFieldWidth}" FontSize="{StaticResource DefaultFieldFontSize}" Text="{Binding rol.Nombre, UpdateSourceTrigger=PropertyChanged}" materialDesign:HintAssist.Hint="Nombre" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Foreground="White"/>
+        <TextBox Margin="0,0,0,12" Width="{StaticResource DefaultFieldWidth}" FontSize="{StaticResource DefaultFieldFontSize}" Text="{Binding rol.Descripcion, UpdateSourceTrigger=PropertyChanged}" materialDesign:HintAssist.Hint="Descripción" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Foreground="White"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center"><Button Content="Guardar" Width="180" Height="46" Margin="0,0,12,0" Click="Guardar_Click" Style="{StaticResource PrimaryButtonStyle}"/><Button Content="Cancelar" Width="180" Height="46" Click="Cancelar_Click" Style="{StaticResource PrimaryButtonStyle}"/></StackPanel>
+    </StackPanel></Grid>
+</UserControl>
