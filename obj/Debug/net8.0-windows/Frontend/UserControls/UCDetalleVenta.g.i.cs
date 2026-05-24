@@ -52,7 +52,7 @@ namespace StockMeal.Frontend.UserControls {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/StockMeal;component/frontend/usercontrols/ucdetalleventa.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/StockMeal;V1.0.0.0;component/frontend/usercontrols/ucdetalleventa.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\Frontend\UserControls\UCDetalleVenta.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

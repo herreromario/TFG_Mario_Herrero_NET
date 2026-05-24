@@ -19,7 +19,7 @@
         <ComboBox Grid.Row="2" Margin="0,0,50,20" FontSize="20" Width="300" HorizontalAlignment="Right" ItemsSource="{Binding listaUnidades}" SelectedItem="{Binding ingrediente.Unidad, UpdateSourceTrigger=PropertyChanged}" materialDesign:HintAssist.Hint="Unidad"/>
         <TextBox Grid.Row="3" Margin="0,0,50,20" FontSize="20" Width="300" HorizontalAlignment="Right" Text="{Binding ingrediente.StockDisponible, UpdateSourceTrigger=PropertyChanged}" materialDesign:HintAssist.Hint="Stock Disponible"/>
         <TextBox Grid.Column="1" Grid.Row="1" Margin="50,0,0,20" FontSize="20" Width="300" HorizontalAlignment="Left" Text="{Binding ingrediente.Descripcion, UpdateSourceTrigger=PropertyChanged}" materialDesign:HintAssist.Hint="Descripción"/>
-        <TextBox Grid.Column="1" Grid.Row="2" Margin="50,0,0,20" FontSize="20" Width="300" HorizontalAlignment="Left" Text="{Binding ingrediente.Precio, UpdateSourceTrigger=PropertyChanged}" materialDesign:HintAssist.Hint="Precio"/>
+        <TextBox Grid.Column="1" Grid.Row="2" Margin="50,0,0,20" FontSize="20" Width="300" HorizontalAlignment="Left" Text="{Binding ingrediente.Precio, UpdateSourceTrigger=LostFocus, StringFormat=F2, ValidatesOnExceptions=True, NotifyOnValidationError=True}" materialDesign:HintAssist.Hint="Precio"/>
         <TextBox Grid.Column="1" Grid.Row="3" Margin="50,0,0,20" FontSize="20" Width="300" HorizontalAlignment="Left" Text="{Binding ingrediente.StockMinimo, UpdateSourceTrigger=PropertyChanged}" materialDesign:HintAssist.Hint="Stock Mínimo"/>
 
         <Button Grid.Column="1" Grid.Row="5" Content="Actualizar" Width="220" Height="50" HorizontalAlignment="Left" Margin="50,20,0,0" Click="btnActualizar_Click" Style="{StaticResource PrimaryButtonStyle}"/>

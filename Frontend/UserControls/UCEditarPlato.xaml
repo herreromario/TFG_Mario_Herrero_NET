@@ -15,7 +15,7 @@
 
         <TextBlock Grid.ColumnSpan="2" Text="Editar Plato" FontSize="36" FontWeight="Bold" Foreground="White" HorizontalAlignment="Center" Margin="0,20,0,40"/>
         <TextBox Grid.Row="1" Margin="0,0,50,20" FontSize="20" Width="300" HorizontalAlignment="Right" Text="{Binding plato.Nombre, UpdateSourceTrigger=PropertyChanged}" materialDesign:HintAssist.Hint="Nombre"/>
-        <TextBox Grid.Row="2" Margin="0,0,50,20" FontSize="20" Width="300" HorizontalAlignment="Right" Text="{Binding plato.Precio, UpdateSourceTrigger=PropertyChanged}" materialDesign:HintAssist.Hint="Precio"/>
+        <TextBox Grid.Row="2" Margin="0,0,50,20" FontSize="20" Width="300" HorizontalAlignment="Right" Text="{Binding plato.Precio, UpdateSourceTrigger=LostFocus, StringFormat=F2, ValidatesOnExceptions=True, NotifyOnValidationError=True}" materialDesign:HintAssist.Hint="Precio"/>
         <TextBox Grid.Column="1" Grid.Row="1" Margin="50,0,0,20" FontSize="20" Width="300" HorizontalAlignment="Left" Text="{Binding plato.Descripcion, UpdateSourceTrigger=PropertyChanged}" materialDesign:HintAssist.Hint="Descripción"/>
         <TextBox Grid.Column="1" Grid.Row="2" Margin="50,0,0,20" FontSize="20" Width="300" HorizontalAlignment="Left" Text="{Binding plato.StockDisponible, UpdateSourceTrigger=PropertyChanged}" materialDesign:HintAssist.Hint="Stock Disponible"/>
 

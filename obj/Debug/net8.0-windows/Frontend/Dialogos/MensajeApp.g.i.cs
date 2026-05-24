@@ -84,7 +84,7 @@ namespace StockMeal.Frontend.Dialogos {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/StockMeal;component/frontend/dialogos/mensajeapp.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/StockMeal;V1.0.0.0;component/frontend/dialogos/mensajeapp.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\Frontend\Dialogos\MensajeApp.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -17,6 +17,31 @@ namespace StockMeal.Backend.Repositorios
             _context = context;
         }
 
+
+        private static void NormalizeProducto(Producto producto)
+        {
+            if (producto == null) return;
+
+            producto.Descripcion ??= string.Empty;
+            producto.Unidad ??= string.Empty;
+            producto.Tipo ??= string.Empty;
+            producto.StockDisponible ??= 0;
+            producto.StockMinimo ??= 0;
+            producto.Precio ??= 0m;
+        }
+
+        public override async Task AddAsync(Producto entity)
+        {
+            NormalizeProducto(entity);
+            await base.AddAsync(entity);
+        }
+
+        public override async Task UpdateAsync(Producto entity)
+        {
+            NormalizeProducto(entity);
+            await base.UpdateAsync(entity);
+        }
+
         /// <summary>
         /// Comprueba si existe un producto con un nombre dado.
         /// </summary>

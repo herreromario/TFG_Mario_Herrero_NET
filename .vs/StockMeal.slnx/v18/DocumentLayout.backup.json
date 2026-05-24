@@ -3,35 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Mario\\source\\repos\\StockMeal-WPF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53E085D4-A2B0-6AE0-7B72-CE19B6E9694E}|StockMeal.csproj|c:\\users\\mario\\source\\repos\\stockmeal-wpf\\backend\\repositorios\\recetarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53E085D4-A2B0-6AE0-7B72-CE19B6E9694E}|StockMeal.csproj|solutionrelative:backend\\repositorios\\recetarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53E085D4-A2B0-6AE0-7B72-CE19B6E9694E}|StockMeal.csproj|c:\\users\\mario\\source\\repos\\stockmeal-wpf\\frontend\\usercontrols\\uceditarplato.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53E085D4-A2B0-6AE0-7B72-CE19B6E9694E}|StockMeal.csproj|solutionrelative:frontend\\usercontrols\\uceditarplato.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53E085D4-A2B0-6AE0-7B72-CE19B6E9694E}|StockMeal.csproj|c:\\users\\mario\\source\\repos\\stockmeal-wpf\\backend\\mvvm\\propios\\mvreceta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53E085D4-A2B0-6AE0-7B72-CE19B6E9694E}|StockMeal.csproj|solutionrelative:backend\\mvvm\\propios\\mvreceta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53E085D4-A2B0-6AE0-7B72-CE19B6E9694E}|StockMeal.csproj|c:\\users\\mario\\source\\repos\\stockmeal-wpf\\frontend\\usercontrols\\uceditaringrediente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53E085D4-A2B0-6AE0-7B72-CE19B6E9694E}|StockMeal.csproj|solutionrelative:frontend\\usercontrols\\uceditaringrediente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53E085D4-A2B0-6AE0-7B72-CE19B6E9694E}|StockMeal.csproj|c:\\users\\mario\\source\\repos\\stockmeal-wpf\\backend\\repositorios\\irecetarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53E085D4-A2B0-6AE0-7B72-CE19B6E9694E}|StockMeal.csproj|solutionrelative:backend\\repositorios\\irecetarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53E085D4-A2B0-6AE0-7B72-CE19B6E9694E}|StockMeal.csproj|c:\\users\\mario\\source\\repos\\stockmeal-wpf\\backend\\repositorios\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E085D4-A2B0-6AE0-7B72-CE19B6E9694E}|StockMeal.csproj|solutionrelative:backend\\repositorios\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53E085D4-A2B0-6AE0-7B72-CE19B6E9694E}|StockMeal.csproj|c:\\users\\mario\\source\\repos\\stockmeal-wpf\\frontend\\usercontrols\\uclistarproveedores.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{53E085D4-A2B0-6AE0-7B72-CE19B6E9694E}|StockMeal.csproj|solutionrelative:frontend\\usercontrols\\uclistarproveedores.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\10.0.102\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53E085D4-A2B0-6AE0-7B72-CE19B6E9694E}|StockMeal.csproj|c:\\users\\mario\\source\\repos\\stockmeal-wpf\\frontend\\dialogos\\editarclientewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{53E085D4-A2B0-6AE0-7B72-CE19B6E9694E}|StockMeal.csproj|solutionrelative:frontend\\dialogos\\editarclientewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53E085D4-A2B0-6AE0-7B72-CE19B6E9694E}|StockMeal.csproj|c:\\users\\mario\\source\\repos\\stockmeal-wpf\\frontend\\usercontrols\\uca\u00F1adircompra.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{53E085D4-A2B0-6AE0-7B72-CE19B6E9694E}|StockMeal.csproj|solutionrelative:frontend\\usercontrols\\uca\u00F1adircompra.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53E085D4-A2B0-6AE0-7B72-CE19B6E9694E}|StockMeal.csproj|c:\\users\\mario\\source\\repos\\stockmeal-wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{53E085D4-A2B0-6AE0-7B72-CE19B6E9694E}|StockMeal.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{53E085D4-A2B0-6AE0-7B72-CE19B6E9694E}|StockMeal.csproj|c:\\users\\mario\\source\\repos\\stockmeal-wpf\\backend\\repositorios\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E085D4-A2B0-6AE0-7B72-CE19B6E9694E}|StockMeal.csproj|solutionrelative:backend\\repositorios\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -93,96 +78,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IRecetaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Mario\\source\\repos\\StockMeal-WPF\\Backend\\Repositorios\\IRecetaRepository.cs",
-              "RelativeDocumentMoniker": "Backend\\Repositorios\\IRecetaRepository.cs",
-              "ToolTip": "C:\\Users\\Mario\\source\\repos\\StockMeal-WPF\\Backend\\Repositorios\\IRecetaRepository.cs",
-              "RelativeToolTip": "Backend\\Repositorios\\IRecetaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T10:54:43.866Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MVReceta.cs",
-              "DocumentMoniker": "C:\\Users\\Mario\\source\\repos\\StockMeal-WPF\\Backend\\MVVM\\Propios\\MVReceta.cs",
-              "RelativeDocumentMoniker": "Backend\\MVVM\\Propios\\MVReceta.cs",
-              "ToolTip": "C:\\Users\\Mario\\source\\repos\\StockMeal-WPF\\Backend\\MVVM\\Propios\\MVReceta.cs",
-              "RelativeToolTip": "Backend\\MVVM\\Propios\\MVReceta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T10:54:08.796Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RecetaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Mario\\source\\repos\\StockMeal-WPF\\Backend\\Repositorios\\RecetaRepository.cs",
-              "RelativeDocumentMoniker": "Backend\\Repositorios\\RecetaRepository.cs",
-              "ToolTip": "C:\\Users\\Mario\\source\\repos\\StockMeal-WPF\\Backend\\Repositorios\\RecetaRepository.cs",
-              "RelativeToolTip": "Backend\\Repositorios\\RecetaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T10:51:29.58Z",
+              "Title": "UCEditarPlato.xaml",
+              "DocumentMoniker": "C:\\Users\\Mario\\source\\repos\\StockMeal-WPF\\Frontend\\UserControls\\UCEditarPlato.xaml",
+              "RelativeDocumentMoniker": "Frontend\\UserControls\\UCEditarPlato.xaml",
+              "ToolTip": "C:\\Users\\Mario\\source\\repos\\StockMeal-WPF\\Frontend\\UserControls\\UCEditarPlato.xaml",
+              "RelativeToolTip": "Frontend\\UserControls\\UCEditarPlato.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-24T23:07:09.305Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UCListarProveedores.xaml",
-              "DocumentMoniker": "C:\\Users\\Mario\\source\\repos\\StockMeal-WPF\\Frontend\\UserControls\\UCListarProveedores.xaml",
-              "RelativeDocumentMoniker": "Frontend\\UserControls\\UCListarProveedores.xaml",
-              "ToolTip": "C:\\Users\\Mario\\source\\repos\\StockMeal-WPF\\Frontend\\UserControls\\UCListarProveedores.xaml",
-              "RelativeToolTip": "Frontend\\UserControls\\UCListarProveedores.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-23T09:48:09.768Z"
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\source\\repos\\StockMeal-WPF\\Backend\\Repositorios\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Repositorios\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Mario\\source\\repos\\StockMeal-WPF\\Backend\\Repositorios\\GenericRepository.cs",
+              "RelativeToolTip": "Backend\\Repositorios\\GenericRepository.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAkwIQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T22:36:35.391Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Microsoft.WinFX.targets",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\10.0.102\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.102\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
-              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\10.0.102\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.102\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
-              "ViewState": "AgIAABMDAAAAAAAAAAAAwMICAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2026-05-23T09:43:42.801Z"
+              "DocumentIndex": 2,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\source\\repos\\StockMeal-WPF\\Backend\\Repositorios\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Repositorios\\ProductoRepository.cs",
+              "ToolTip": "C:\\Users\\Mario\\source\\repos\\StockMeal-WPF\\Backend\\Repositorios\\ProductoRepository.cs",
+              "RelativeToolTip": "Backend\\Repositorios\\ProductoRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T22:36:09.645Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EditarClienteWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Mario\\source\\repos\\StockMeal-WPF\\Frontend\\Dialogos\\EditarClienteWindow.xaml",
-              "RelativeDocumentMoniker": "Frontend\\Dialogos\\EditarClienteWindow.xaml",
-              "ToolTip": "C:\\Users\\Mario\\source\\repos\\StockMeal-WPF\\Frontend\\Dialogos\\EditarClienteWindow.xaml",
-              "RelativeToolTip": "Frontend\\Dialogos\\EditarClienteWindow.xaml",
+              "DocumentIndex": 1,
+              "Title": "UCEditarIngrediente.xaml",
+              "DocumentMoniker": "C:\\Users\\Mario\\source\\repos\\StockMeal-WPF\\Frontend\\UserControls\\UCEditarIngrediente.xaml",
+              "RelativeDocumentMoniker": "Frontend\\UserControls\\UCEditarIngrediente.xaml",
+              "ToolTip": "C:\\Users\\Mario\\source\\repos\\StockMeal-WPF\\Frontend\\UserControls\\UCEditarIngrediente.xaml",
+              "RelativeToolTip": "Frontend\\UserControls\\UCEditarIngrediente.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-22T10:19:43.822Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UCA\u00F1adirCompra.xaml",
-              "DocumentMoniker": "C:\\Users\\Mario\\source\\repos\\StockMeal-WPF\\Frontend\\UserControls\\UCA\u00F1adirCompra.xaml",
-              "RelativeDocumentMoniker": "Frontend\\UserControls\\UCA\u00F1adirCompra.xaml",
-              "ToolTip": "C:\\Users\\Mario\\source\\repos\\StockMeal-WPF\\Frontend\\UserControls\\UCA\u00F1adirCompra.xaml",
-              "RelativeToolTip": "Frontend\\UserControls\\UCA\u00F1adirCompra.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-15T11:40:47.239Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Mario\\source\\repos\\StockMeal-WPF\\App.xaml",
-              "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "C:\\Users\\Mario\\source\\repos\\StockMeal-WPF\\App.xaml",
-              "RelativeToolTip": "App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-15T10:59:25.013Z"
+              "WhenOpened": "2026-05-24T22:25:01.345Z",
+              "EditorCaption": ""
             }
           ]
         },

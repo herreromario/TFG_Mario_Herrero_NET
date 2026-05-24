@@ -78,7 +78,7 @@ namespace StockMeal.Backend.Repositorios
         //       ESCRITURA
         // ========================
 
-        public async Task AddAsync(T entity)
+        public virtual async Task AddAsync(T entity)
         {
             if (entity == null) throw new ArgumentNullException(nameof(entity));
 
@@ -108,12 +108,29 @@ namespace StockMeal.Backend.Repositorios
             }
         }
 
-        public async Task UpdateAsync(T entity)
+        private void DetachLocalEntityIfExists(T entity)
+        {
+            var entityType = _context.Model.FindEntityType(typeof(T));
+            var primaryKey = entityType?.FindPrimaryKey();
+            if (primaryKey == null) return;
+
+            var localEntity = _dbSet.Local.FirstOrDefault(local =>
+                primaryKey.Properties.All(p =>
+                    Equals(p.PropertyInfo?.GetValue(local), p.PropertyInfo?.GetValue(entity))));
+
+            if (localEntity != null && !ReferenceEquals(localEntity, entity))
+            {
+                _context.Entry(localEntity).State = EntityState.Detached;
+            }
+        }
+
+        public virtual async Task UpdateAsync(T entity)
         {
             if (entity == null) throw new ArgumentNullException(nameof(entity));
 
             try
             {
+                DetachLocalEntityIfExists(entity);
                 _dbSet.Update(entity);
                 await _context.SaveChangesAsync().ConfigureAwait(false);
             }
